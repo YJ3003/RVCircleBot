@@ -1,0 +1,4 @@
+flask
+flask-cors
+meta-ai-api
+praw
